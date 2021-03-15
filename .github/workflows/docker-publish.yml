@@ -14,7 +14,7 @@ on:
   pull_request:
 
 env:
-  IMAGE_NAME: aws-nodejs-build-deployer
+  IMAGE_NAME: aws-docker-build-deployer
 
 jobs:
   # Run tests.
